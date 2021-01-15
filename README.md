@@ -5,7 +5,7 @@ A simple iOS app created with Swift 5.
 This project is similar to the "I Am Rich" app, also created with Xcode using Swift 5. The purpose of this project was to 
 practice and familiarize myself with the storyboard layout. 
 
-## Screenshot
+## Screenshots
 ![i-am-poor-portrait](./I%20Am%20Poor/images/i-am-poor-portrait.png) 
 ![i-am-poor-landscape](./I%20Am%20Poor/images/i-am-poor-landscape.png) 
 
